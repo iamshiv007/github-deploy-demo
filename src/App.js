@@ -4,12 +4,12 @@ function App() {
   return (
     <div className="container">
       <div>
-        <p className="hii">
+        <p>
           Hii <span>👋</span>{" "}
         </p>
-        <p className="name">I am Shivraj.</p>
-        <p className="desc">This page is demo for :-</p>
-        <p className="desc">How to deploy a static site on Github.</p>
+        <p>I am Shivraj.</p>
+        <p>This is a demo page for :-</p>
+        <p>How to deploy a static site on Github.</p>
       </div>
     </div>
   );
